@@ -8,7 +8,7 @@
         "react/event-loop": "^1.0",
         "recoil/react": "^1.0",
         "recoil/recoil": "^1.0",
-        "wyrihaximus/psr-3-callable-throwable-logger": "^1.0",
+        "wyrihaximus/psr-3-callable-throwable-logger": "^2.0 || ^1.0",
         "wyrihaximus/psr-3-context-logger": "^1.0"
     },
     "require-dev": {
